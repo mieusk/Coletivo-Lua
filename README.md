@@ -6,6 +6,7 @@ Nosso objetivo é enriquecer a experiência dos jogadores com minijogos criativo
 
 - [**jogoDaVelhaNumero2.lua**](https://github.com/mieusk/Coletivo-Lua/blob/main/jogoDaVelhaNumero2.lua) Implementação do jogo da velha 2.0, adaptado para o ambiente do Transformice. Não é igual ao clássico!
 - [**mapasTrollBeta.lua**](https://github.com/mieusk/Coletivo-Lua/blob/main/mapasTrollBeta.lua) Um script de mapas, extremamente difíceis e com mecanismos troll.
+- [**sorteio.lua**](https://github.com/mieusk/Coletivo-Lua/blob/main/sorteio.lua) O melhor sorteador já feito no Transformice, atualmente usado pelas maiores tribos do jogo.
 
 ## 🎮 Como Utilizar
 
