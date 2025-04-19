@@ -9,10 +9,10 @@ Nosso objetivo é enriquecer a experiência dos jogadores com minijogos criativo
 
 ## 🎮 Como Utilizar
 
-. Acesse o Transformice e entre no seu cafofo.
-. Digite o comando `/lua` no chat para abrir o editor de scripts. Lembre-se que é necessário ter a permissão `/np` na tribo.
-. Copie e cole o conteúdo de um dos arquivos `.lua`.
-. Execute o script e aproveite.
+- Acesse o Transformice e entre no seu cafofo.
+- Digite o comando `/lua` no chat para abrir o editor de scripts. Lembre-se que é necessário ter a permissão `/np` na tribo.
+- Copie e cole o conteúdo de um dos arquivos `.lua`.
+- Execute o script e aproveite.
 
 ## 🤝 Contribuiçõs
 
