@@ -4,8 +4,8 @@ Nosso objetivo é enriquecer a experiência dos jogadores com minijogos criativo
 
 ## 📂 Conteúdo do Repositório
 
-- **jogoDaVelhaNumero2.lua** Implementação do jogo da velha 2.0, adaptado para o ambiente do Transformice. Não é igual ao clássico!
-- **mapasTrollBeta.lua** Um script de mapas, extremamente difíceis e com mecanismos troll.
+- [**jogoDaVelhaNumero2.lua**](https://github.com/mieusk/Coletivo-Lua/blob/main/jogoDaVelhaNumero2.lua) Implementação do jogo da velha 2.0, adaptado para o ambiente do Transformice. Não é igual ao clássico!
+- [**mapasTrollBeta.lua**](https://github.com/mieusk/Coletivo-Lua/blob/main/mapasTrollBeta.lua) Um script de mapas, extremamente difíceis e com mecanismos troll.
 
 ## 🎮 Como Utilizar
 
